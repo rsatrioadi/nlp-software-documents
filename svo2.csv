@@ -1,216 +1,216 @@
-﻿source,interaction,target
-this,revealed,a basic design principle
-"the latter "" beam",is,a ccd image
-that had d’être,had,a functional raison d’être
-it,was,a layer
-the mapping,had,a many characteristic
-the modules,provided,a mapping
-the modules,provided,a mapping
-processors,deal,a number
-processors,embedded,a number
-the hardware,deal,a number
-a number,dealt,a number
-processors,deal,a number
-the hardware,deal,a number
-we,made,a number
-the keystoke,accompany,a particular function
-the left,accompany,a particular function
-figure 4,accompany,a particular function
-the keystoke on,accompany,a particular function
-figure 4,accompany,a particular function
-the electron beam,had,a single coincidence point
-the electron beam,had,a single coincidence point
-this,is,a term activity
-the slice,is,a thin cross
-the main platform,is,a vacuum chamber
-the tool bar,provided,access
-the inspection dialogue,provided,actual information
-the creation phase,instantiate,all ( static ) objects
-we,describe,all relationships
-that provided control,provided,alternative control
-it,is,an electron beam image
-figure 3,show,an example
-analysis,is,an important requirement
-that had function,had,an operational function
-the samples,need,any preparation
-it,hold,any state (
-examples,are,cadnav
-we,need,calibration
-order,prevented,cluttering of the ui
-the samples,need,coating
-samples,needed,coating
-a manner,instantiate,com components
-"a set of ,",specify,connectivity
-they,involved,control
-the instrument server,held,control layers
-a multitude of detector sources,obtain,data
-technology choices,base,decomposition criteria
-the mapping of single level commands,base,decomposition criteria
-multiple settings in the hardware,base,decomposition criteria
-technology choices,base,decomposition criteria
-multiple settings in the hardware,base,decomposition criteria
-the mapping of single level commands,base,decomposition criteria
-this,saved,development time
-typical applications,are,dispersive spectroscopy
-the sample,focus,electrons
-the bricks themselves,show,further granularity
-"engines , "" specifics",capture,generics
-the bricks,contained,graphs
-"a layering host ,",realize,image display
-these signals,contained,information
-other tasks,take,instrument time
-the primary beam,had,interaction
-fledged interfaces,maximize,internal software efficiency
-all bricks,had,internal threads
-"many automation facilities , mechanisms",characterize,it
-a high degree with the functionality of a general light microscope,compare,it
-the instrument server,published,its brick structure
-we,working,its brick structure
-the instrument server,published,its brick structure
-we,working,its brick structure
-fledged interfaces,control,layer
-any problem in the field,diagnosed,means
-the need for a debugger,diagnosed,means
-any problem in the field,diagnosed,means
-the need for a debugger,diagnosed,means
-the inspection dialogues,shipped,means
-one,calibrated,measurements
-one,calibrated,measurements
-one,need,measurements
-measurements,calibrated,measurements
-there,are,minimal dependencies between applications
-hardware abstraction : exchange,have,minimal impact on generic module behavior
-other applications,included,modifications
-different customers,differed,needs
-objects,seek,objects
-these relationships,depicted,order
-these relationships,depicted,order
-which,apply,our instruments
-the bricks,are,process com servers
-the value,!was,processing
-an advanced application,is,repair
-it,enabled,resolution images
-the elements (,releasing,resources
-course,do,runs
-the pc,do,runs
-the necessity,do,runs
-course,do,runs
-the necessity,do,runs
-the pc,do,runs
-the purpose of process control,take,samples
-the purpose of process control out at in the process,take,samples
-strategic points in the process,take,samples
-there,are,several manipulator systems
-served,define,several systems
-the decomposition criteria,are,site development
-examples,are,slice
-examples,are,slice view
-throughput,are,some general requirements
-robustness,are,some general requirements
-uptime,are,some general requirements
-this layer,do,some modeling
-some modeling,done,some modeling
-this layer,do,some modeling
-instance,capture,specific modeling choice
-certification,are,specific requirements
-comparison,are,specific requirements
-there,are,stroke versions
-order,compose,table
-order,compose,table
-the image,perform,that be performed on the image
-the user interface,expose,that is exposed by the user interface
-"all applications ,",share,"that is shared by all applications ,"
-positioned,use,that is used
-another aspect,is,that parallel development
-these three processes,formed,the basic software
-table,see,the capability
-the major modules,are,the columns
-a data bar,showed,the conditions below an image
-a configuration file per (,specify,the connectivity
-often configuration amendments for options,specify,the connectivity
-"a set of ,",specify,the creation
-figure 5,depict,the execution model
-flexibility,mean,the fact is
-the image,is,the first bottom layer
-this,took,the form
-system tasks,are,the generic functions
-hal ) layer,abstracted,the hardware devices
-hal ) layer,abstracted,the hardware devices
-the task,correspond,the horizontal position
-one,distinguish,the incremental approach
-one,distinguish,the incremental approach
-one,distinguish,the incremental approach in the development of the instrument family
-"the software ,",ship,the inspection dialogues
-"the software ,",released,the inspection dialogues
-"the software ,",ship,the inspection dialogues
-"the software ,",released,the inspection dialogues
-modified,use,the ion beam
-the landing place,determined,the location
-the landing place,determined,the location
-four images (,reserve,the majority
-other data ),reserve,the majority
-four images (,reserve,the majority
-other data,reserve,the majority
-fixed,keep,the mappings
-the software,download,the necessity
-a test environment,download,the necessity
-the real instrument,download,the necessity
-runs,simulated,the necessity
-the software,download,the necessity
-a test environment,download,the necessity
-the real instrument,download,the necessity
-runs,simulated,the necessity
-they,involved,the organization
-the application server,held,the parts
-it,enabled,the possibility
-it,enabled,the possibility
-other bricks,provided,the possibility
-"the last image of ,",remember,the presentation choice
-it,showed,the processes
-we,reviewed,the product requirements
-a dimensional image of the surface,derive,the relevant information
-a dimensional image of the surface,derive,the relevant information
-control panels,are,the reusable entities
-measurements,yielded,the same results
-the key customer drivers,derive,the specific application drivers
-we,described,the system architecture
-applications,are,the system functionality
-figure 4,identify,the tasks
-these,are,the tasks
-the instrument server,held,the tasks
-these,are,the typical use cases
-four quads,hold,the user interface
-four quads,hold,the user interface
-the bricks,started,their internal threads
-the bricks,started,their internal threads
-we,called,them
-we,called,these step tasks
-com components,realize,they
-a significant part to the fact is an infrastructure / architecture,attribute,this
-gasses,enhance,this process
-means of a injection system gis near the landing place of the ions,enhance,this process
-gasses,added,this process
-gasses,enhance,this process
-gasses,added,this process
-means of a injection system gis near the landing place of the ions,enhance,this process
-that prepared structure,prepared,this structure
-that prepared structure with a high degree of automation,prepared,this structure
-performance electron column for optimum characterization capabilities,equip,this system
-failure analysis,need,various techniques
-"some final , general requirements",are,versatility
-the flexibility,enabled,versatility
-examples,are,view
-these,be,wafers
-the object model,call,we
-quads,call,we
-quads,call,we
-the control pages,call,we
-one,do,what
-one,do,what with the systems
-layers of various natures,host,which
-we,separated,which
-we,separated,which
-software engineers,provide,which
-means,provide,which
-software engineers,provide,which
-means,provide,which
+﻿source,interaction,target,orig_src,orig_trg
+this,revealed,design principle,this,a basic design principle
+beam,is,image,"the latter "" beam",a ccd image
+,had,,that had d’être,a functional raison d’être
+it,was,layer,it,a layer
+mapping,had,characteristic,the mapping,a many characteristic
+,provided,,the modules,a mapping
+,provided,,the modules,a mapping
+,deal,,processors,a number
+,embedded,,processors,a number
+,deal,,the hardware,a number
+,dealt,,a number,a number
+,deal,,processors,a number
+,deal,,the hardware,a number
+,made,,we,a number
+,accompany,,the keystoke,a particular function
+,accompany,,the left,a particular function
+,accompany,,figure 4,a particular function
+,accompany,,the keystoke on,a particular function
+,accompany,,figure 4,a particular function
+,had,,the electron beam,a single coincidence point
+,had,,the electron beam,a single coincidence point
+,is,,this,a term activity
+,is,,the slice,a thin cross
+,is,,the main platform,a vacuum chamber
+,provided,,the tool bar,access
+,provided,,the inspection dialogue,actual information
+,instantiate,,the creation phase,all ( static ) objects
+,describe,,we,all relationships
+,provided,,that provided control,alternative control
+,is,,it,an electron beam image
+,show,,figure 3,an example
+,is,,analysis,an important requirement
+,had,,that had function,an operational function
+,need,,the samples,any preparation
+,hold,,it,any state (
+,are,,examples,cadnav
+,need,,we,calibration
+,prevented,,order,cluttering of the ui
+,need,,the samples,coating
+,needed,,samples,coating
+,instantiate,,a manner,com components
+,specify,,"a set of ,",connectivity
+,involved,,they,control
+,held,,the instrument server,control layers
+,obtain,,a multitude of detector sources,data
+,base,,technology choices,decomposition criteria
+,base,,the mapping of single level commands,decomposition criteria
+,base,,multiple settings in the hardware,decomposition criteria
+,base,,technology choices,decomposition criteria
+,base,,multiple settings in the hardware,decomposition criteria
+,base,,the mapping of single level commands,decomposition criteria
+,saved,,this,development time
+,are,,typical applications,dispersive spectroscopy
+,focus,,the sample,electrons
+,show,,the bricks themselves,further granularity
+,capture,,"engines , "" specifics",generics
+,contained,,the bricks,graphs
+,realize,,"a layering host ,",image display
+,contained,,these signals,information
+,take,,other tasks,instrument time
+,had,,the primary beam,interaction
+,maximize,,fledged interfaces,internal software efficiency
+,had,,all bricks,internal threads
+,characterize,,"many automation facilities , mechanisms",it
+,compare,,a high degree with the functionality of a general light microscope,it
+,published,,the instrument server,its brick structure
+,working,,we,its brick structure
+,published,,the instrument server,its brick structure
+,working,,we,its brick structure
+,control,,fledged interfaces,layer
+,diagnosed,,any problem in the field,means
+,diagnosed,,the need for a debugger,means
+,diagnosed,,any problem in the field,means
+,diagnosed,,the need for a debugger,means
+,shipped,,the inspection dialogues,means
+,calibrated,,one,measurements
+,calibrated,,one,measurements
+,need,,one,measurements
+,calibrated,,measurements,measurements
+,are,,there,minimal dependencies between applications
+,have,,hardware abstraction : exchange,minimal impact on generic module behavior
+,included,,other applications,modifications
+,differed,,different customers,needs
+,seek,,objects,objects
+,depicted,,these relationships,order
+,depicted,,these relationships,order
+,apply,,which,our instruments
+,are,,the bricks,process com servers
+,!was,,the value,processing
+,is,,an advanced application,repair
+,enabled,,it,resolution images
+,releasing,,the elements (,resources
+,do,,course,runs
+,do,,the pc,runs
+,do,,the necessity,runs
+,do,,course,runs
+,do,,the necessity,runs
+,do,,the pc,runs
+,take,,the purpose of process control,samples
+,take,,the purpose of process control out at in the process,samples
+,take,,strategic points in the process,samples
+,are,,there,several manipulator systems
+,define,,served,several systems
+,are,,the decomposition criteria,site development
+,are,,examples,slice
+,are,,examples,slice view
+,are,,throughput,some general requirements
+,are,,robustness,some general requirements
+,are,,uptime,some general requirements
+,do,,this layer,some modeling
+,done,,some modeling,some modeling
+,do,,this layer,some modeling
+,capture,,instance,specific modeling choice
+,are,,certification,specific requirements
+,are,,comparison,specific requirements
+,are,,there,stroke versions
+,compose,,order,table
+,compose,,order,table
+,perform,,the image,that be performed on the image
+,expose,,the user interface,that is exposed by the user interface
+,share,,"all applications ,","that is shared by all applications ,"
+,use,,positioned,that is used
+,is,,another aspect,that parallel development
+,formed,,these three processes,the basic software
+,see,,table,the capability
+,are,,the major modules,the columns
+,showed,,a data bar,the conditions below an image
+,specify,,a configuration file per (,the connectivity
+,specify,,often configuration amendments for options,the connectivity
+,specify,,"a set of ,",the creation
+,depict,,figure 5,the execution model
+,mean,,flexibility,the fact is
+,is,,the image,the first bottom layer
+,took,,this,the form
+,are,,system tasks,the generic functions
+,abstracted,,hal ) layer,the hardware devices
+,abstracted,,hal ) layer,the hardware devices
+,correspond,,the task,the horizontal position
+,distinguish,,one,the incremental approach
+,distinguish,,one,the incremental approach
+,distinguish,,one,the incremental approach in the development of the instrument family
+,ship,,"the software ,",the inspection dialogues
+,released,,"the software ,",the inspection dialogues
+,ship,,"the software ,",the inspection dialogues
+,released,,"the software ,",the inspection dialogues
+,use,,modified,the ion beam
+,determined,,the landing place,the location
+,determined,,the landing place,the location
+,reserve,,four images (,the majority
+,reserve,,other data ),the majority
+,reserve,,four images (,the majority
+,reserve,,other data,the majority
+,keep,,fixed,the mappings
+,download,,the software,the necessity
+,download,,a test environment,the necessity
+,download,,the real instrument,the necessity
+,simulated,,runs,the necessity
+,download,,the software,the necessity
+,download,,a test environment,the necessity
+,download,,the real instrument,the necessity
+,simulated,,runs,the necessity
+,involved,,they,the organization
+,held,,the application server,the parts
+,enabled,,it,the possibility
+,enabled,,it,the possibility
+,provided,,other bricks,the possibility
+,remember,,"the last image of ,",the presentation choice
+,showed,,it,the processes
+,reviewed,,we,the product requirements
+,derive,,a dimensional image of the surface,the relevant information
+,derive,,a dimensional image of the surface,the relevant information
+,are,,control panels,the reusable entities
+,yielded,,measurements,the same results
+,derive,,the key customer drivers,the specific application drivers
+,described,,we,the system architecture
+,are,,applications,the system functionality
+,identify,,figure 4,the tasks
+,are,,these,the tasks
+,held,,the instrument server,the tasks
+,are,,these,the typical use cases
+,hold,,four quads,the user interface
+,hold,,four quads,the user interface
+,started,,the bricks,their internal threads
+,started,,the bricks,their internal threads
+,called,,we,them
+,called,,we,these step tasks
+,realize,,com components,they
+,attribute,,a significant part to the fact is an infrastructure / architecture,this
+,enhance,,gasses,this process
+,enhance,,means of a injection system gis near the landing place of the ions,this process
+,added,,gasses,this process
+,enhance,,gasses,this process
+,added,,gasses,this process
+,enhance,,means of a injection system gis near the landing place of the ions,this process
+,prepared,,that prepared structure,this structure
+,prepared,,that prepared structure with a high degree of automation,this structure
+,equip,,performance electron column for optimum characterization capabilities,this system
+,need,,failure analysis,various techniques
+,are,,"some final , general requirements",versatility
+,enabled,,the flexibility,versatility
+,are,,examples,view
+,be,,these,wafers
+,call,,the object model,we
+,call,,quads,we
+,call,,quads,we
+,call,,the control pages,we
+,do,,one,what
+,do,,one,what with the systems
+,host,,layers of various natures,which
+,separated,,we,which
+,separated,,we,which
+,provide,,software engineers,which
+,provide,,means,which
+,provide,,software engineers,which
+,provide,,means,which
